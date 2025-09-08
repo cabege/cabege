@@ -14,8 +14,8 @@
 
 
 ## Solved.ac Profile 🏆
-
-[![pawken](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pawken)](https://solved.ac/pawken)
 
 <br>
 <br>
