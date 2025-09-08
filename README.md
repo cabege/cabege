@@ -1,4 +1,6 @@
 # TOO MANY CODES IN MY LIFE 🎲
+### I will find an efficient solution to everything that is coming to me, and take it easy 💪
+### I love all the creative, abstract worlds that are made into code... like games and rules on apps and machines... things like that lol
 
 <br>
 
